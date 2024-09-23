@@ -38,6 +38,7 @@ const Details = () => {
             <h4>{state.title}</h4>
             <p><b>Price: </b> {state.price}</p>
             <button className='butt'>Shop-Now</button>
+            <p>Thank You Guyes!!!</p>
         </>
       }
     </div>
