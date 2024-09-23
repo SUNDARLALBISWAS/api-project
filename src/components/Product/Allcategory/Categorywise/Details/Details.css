@@ -1,0 +1,11 @@
+.image-in{
+    height: 250px;
+    padding: 30px;
+}
+.butt{
+    background-color: green;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    color: white;
+}
